@@ -1,0 +1,6 @@
+classes= 4
+train  = /home/yijian/alexnet/darknet/train_aug.txt
+valid  = /home/yijian/alexnet/darknet/val_comb3.txt
+names = data/voc.names
+backup = /home/yijian/alexnet/darknet/backup
+
